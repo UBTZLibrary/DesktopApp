@@ -114,12 +114,10 @@ namespace UBTZLibrary.Inquiry
                                                    TBLBOOK.CODE         BOOKCODE,
                                                    TBLBOOK.NAME         BOOKNAME
                                               FROM (SELECT CASE
-                                                             WHEN (ISNULL(TBLBOOKORDER.RETURNEDDATE, getdate()) -
-                                                                  TBLBOOKORDER.RETURNDATE) <= 0 THEN
+                                                             WHEN DATEDIFF(dd, TBLBOOKORDER.RETURNDATE, ISNULL(TBLBOOKORDER.RETURNEDDATE, getdate())) <= 0 THEN
                                                               0
                                                              ELSE
-                                                              FLOOR(ISNULL(TBLBOOKORDER.RETURNEDDATE, getdate()) -
-                                                                    TBLBOOKORDER.RETURNDATE)
+                                                              FLOOR(DATEDIFF(dd, TBLBOOKORDER.RETURNDATE, ISNULL(TBLBOOKORDER.RETURNEDDATE, getdate())))
                                                            END LATEDAY,
                                                            TBLBOOKORDER.*
                                                       FROM TBLBOOKORDER) TBLBOOKORDER
