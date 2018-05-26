@@ -1,0 +1,98 @@
+C:\Users\ariunmunkh.e\Documents\Visual Studio 2013\Projects\UBTZLibrary\UBTZLibrary\bin\Debug\UBTZLibrary.exe.config
+C:\Users\ariunmunkh.e\Documents\Visual Studio 2013\Projects\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.AssistantForm.frmImageCropResize.resources
+C:\Users\ariunmunkh.e\Documents\Visual Studio 2013\Projects\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.GeneralInfo.frmBookOrder.resources
+C:\Users\ariunmunkh.e\Documents\Visual Studio 2013\Projects\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.GeneralInfo.frmBook.resources
+C:\Users\ariunmunkh.e\Documents\Visual Studio 2013\Projects\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.GeneralInfo.frmBookOut.resources
+C:\Users\ariunmunkh.e\Documents\Visual Studio 2013\Projects\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.GeneralInfo.frmStudent.resources
+C:\Users\ariunmunkh.e\Documents\Visual Studio 2013\Projects\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.GeneralInfo.frmAuthor.resources
+C:\Users\ariunmunkh.e\Documents\Visual Studio 2013\Projects\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.GeneralInfo.frmCategory.resources
+C:\Users\ariunmunkh.e\Documents\Visual Studio 2013\Projects\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.GeneralInfo.frmBookPurchase.resources
+C:\Users\ariunmunkh.e\Documents\Visual Studio 2013\Projects\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.GeneralInfo.frmUser.resources
+C:\Users\ariunmunkh.e\Documents\Visual Studio 2013\Projects\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.Inquiry.frmBookOrderPayList.resources
+C:\Users\ariunmunkh.e\Documents\Visual Studio 2013\Projects\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.Inquiry.frmBookOrderTakeList.resources
+C:\Users\ariunmunkh.e\Documents\Visual Studio 2013\Projects\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.Inquiry.frmBookOrderLateList.resources
+C:\Users\ariunmunkh.e\Documents\Visual Studio 2013\Projects\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.Inquiry.frmBookOutList.resources
+C:\Users\ariunmunkh.e\Documents\Visual Studio 2013\Projects\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.Inquiry.frmBookPurchaseList.resources
+C:\Users\ariunmunkh.e\Documents\Visual Studio 2013\Projects\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.Inquiry.frmBookOrderResolution.resources
+C:\Users\ariunmunkh.e\Documents\Visual Studio 2013\Projects\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.Inquiry.frmBookRemainderList.resources
+C:\Users\ariunmunkh.e\Documents\Visual Studio 2013\Projects\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.Inquiry.frmAuthorList.resources
+C:\Users\ariunmunkh.e\Documents\Visual Studio 2013\Projects\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.Inquiry.frmBookList.resources
+C:\Users\ariunmunkh.e\Documents\Visual Studio 2013\Projects\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.Inquiry.frmStudentList.resources
+C:\Users\ariunmunkh.e\Documents\Visual Studio 2013\Projects\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.Inquiry.frmCategoryList.resources
+C:\Users\ariunmunkh.e\Documents\Visual Studio 2013\Projects\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.Inquiry.frmUserList.resources
+C:\Users\ariunmunkh.e\Documents\Visual Studio 2013\Projects\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.frmLogin.resources
+C:\Users\ariunmunkh.e\Documents\Visual Studio 2013\Projects\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.frmMain.resources
+C:\Users\ariunmunkh.e\Documents\Visual Studio 2013\Projects\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.Properties.Resources.resources
+C:\Users\ariunmunkh.e\Documents\Visual Studio 2013\Projects\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.csproj.GenerateResource.Cache
+C:\Users\ariunmunkh.e\Documents\Visual Studio 2013\Projects\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.exe.licenses
+C:\Users\ariunmunkh.e\Documents\Visual Studio 2013\Projects\UBTZLibrary\UBTZLibrary\bin\Debug\UBTZLibrary.exe
+C:\Users\ariunmunkh.e\Documents\Visual Studio 2013\Projects\UBTZLibrary\UBTZLibrary\bin\Debug\UBTZLibrary.pdb
+C:\Users\ariunmunkh.e\Documents\Visual Studio 2013\Projects\UBTZLibrary\UBTZLibrary\bin\Debug\Oracle.DataAccess.dll
+C:\Users\ariunmunkh.e\Documents\Visual Studio 2013\Projects\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.exe
+C:\Users\ariunmunkh.e\Documents\Visual Studio 2013\Projects\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.pdb
+C:\Users\ariunmunkh.e\Documents\Visual Studio 2013\Projects\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.csprojResolveAssemblyReference.cache
+C:\Users\ariunmunkh.e\OneDrive\Documents\Visual Studio\UBTZLibrary\UBTZLibrary\bin\Debug\UBTZLibrary.exe.config
+C:\Users\ariunmunkh.e\OneDrive\Documents\Visual Studio\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.exe
+C:\Users\ariunmunkh.e\OneDrive\Documents\Visual Studio\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.pdb
+C:\Users\Anka\OneDrive\Documents\Visual Studio\UBTZLibrary\UBTZLibrary\bin\Debug\UBTZLibrary.exe.config
+C:\Users\Anka\OneDrive\Documents\Visual Studio\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.exe
+C:\Users\Anka\OneDrive\Documents\Visual Studio\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.pdb
+C:\Users\Anka\OneDrive\Documents\Visual Studio\UBTZLibrary\UBTZLibrary\bin\Debug\UBTZLibrary.exe
+C:\Users\Anka\OneDrive\Documents\Visual Studio\UBTZLibrary\UBTZLibrary\bin\Debug\UBTZLibrary.pdb
+C:\Users\Anka\OneDrive\Documents\Visual Studio\UBTZLibrary\UBTZLibrary\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Anka\OneDrive\Documents\Visual Studio\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Anka\OneDrive\Documents\Visual Studio\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.AssistantForm.frmImageCropResize.resources
+C:\Users\Anka\OneDrive\Documents\Visual Studio\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.GeneralInfo.frmBookOrder.resources
+C:\Users\Anka\OneDrive\Documents\Visual Studio\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.GeneralInfo.frmBook.resources
+C:\Users\Anka\OneDrive\Documents\Visual Studio\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.GeneralInfo.frmBookOut.resources
+C:\Users\Anka\OneDrive\Documents\Visual Studio\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.GeneralInfo.frmStudent.resources
+C:\Users\Anka\OneDrive\Documents\Visual Studio\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.GeneralInfo.frmAuthor.resources
+C:\Users\Anka\OneDrive\Documents\Visual Studio\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.GeneralInfo.frmCategory.resources
+C:\Users\Anka\OneDrive\Documents\Visual Studio\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.GeneralInfo.frmBookPurchase.resources
+C:\Users\Anka\OneDrive\Documents\Visual Studio\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.GeneralInfo.frmUser.resources
+C:\Users\Anka\OneDrive\Documents\Visual Studio\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.Inquiry.frmBookOrderPayList.resources
+C:\Users\Anka\OneDrive\Documents\Visual Studio\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.Inquiry.frmBookOrderTakeList.resources
+C:\Users\Anka\OneDrive\Documents\Visual Studio\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.Inquiry.frmBookOrderLateList.resources
+C:\Users\Anka\OneDrive\Documents\Visual Studio\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.Inquiry.frmBookOutList.resources
+C:\Users\Anka\OneDrive\Documents\Visual Studio\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.Inquiry.frmBookPurchaseList.resources
+C:\Users\Anka\OneDrive\Documents\Visual Studio\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.Inquiry.frmBookOrderResolution.resources
+C:\Users\Anka\OneDrive\Documents\Visual Studio\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.Inquiry.frmBookRemainderList.resources
+C:\Users\Anka\OneDrive\Documents\Visual Studio\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.Inquiry.frmAuthorList.resources
+C:\Users\Anka\OneDrive\Documents\Visual Studio\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.Inquiry.frmBookList.resources
+C:\Users\Anka\OneDrive\Documents\Visual Studio\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.Inquiry.frmStudentList.resources
+C:\Users\Anka\OneDrive\Documents\Visual Studio\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.Inquiry.frmCategoryList.resources
+C:\Users\Anka\OneDrive\Documents\Visual Studio\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.Inquiry.frmUserList.resources
+C:\Users\Anka\OneDrive\Documents\Visual Studio\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.frmLogin.resources
+C:\Users\Anka\OneDrive\Documents\Visual Studio\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.frmMain.resources
+C:\Users\Anka\OneDrive\Documents\Visual Studio\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.Properties.Resources.resources
+C:\Users\Anka\OneDrive\Documents\Visual Studio\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.csproj.GenerateResource.Cache
+C:\Users\Anka\OneDrive\Documents\Visual Studio\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.exe.licenses
+C:\Users\Ariunmunkh.e\OneDrive\Documents\Visual Studio\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Ariunmunkh.e\OneDrive\Documents\Visual Studio\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.AssistantForm.frmImageCropResize.resources
+C:\Users\Ariunmunkh.e\OneDrive\Documents\Visual Studio\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.GeneralInfo.frmBookOrder.resources
+C:\Users\Ariunmunkh.e\OneDrive\Documents\Visual Studio\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.GeneralInfo.frmBook.resources
+C:\Users\Ariunmunkh.e\OneDrive\Documents\Visual Studio\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.GeneralInfo.frmBookOut.resources
+C:\Users\Ariunmunkh.e\OneDrive\Documents\Visual Studio\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.GeneralInfo.frmStudent.resources
+C:\Users\Ariunmunkh.e\OneDrive\Documents\Visual Studio\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.GeneralInfo.frmAuthor.resources
+C:\Users\Ariunmunkh.e\OneDrive\Documents\Visual Studio\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.GeneralInfo.frmCategory.resources
+C:\Users\Ariunmunkh.e\OneDrive\Documents\Visual Studio\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.GeneralInfo.frmBookPurchase.resources
+C:\Users\Ariunmunkh.e\OneDrive\Documents\Visual Studio\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.GeneralInfo.frmUser.resources
+C:\Users\Ariunmunkh.e\OneDrive\Documents\Visual Studio\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.Inquiry.frmBookOrderPayList.resources
+C:\Users\Ariunmunkh.e\OneDrive\Documents\Visual Studio\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.Inquiry.frmBookOrderTakeList.resources
+C:\Users\Ariunmunkh.e\OneDrive\Documents\Visual Studio\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.Inquiry.frmBookOrderLateList.resources
+C:\Users\Ariunmunkh.e\OneDrive\Documents\Visual Studio\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.Inquiry.frmBookOutList.resources
+C:\Users\Ariunmunkh.e\OneDrive\Documents\Visual Studio\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.Inquiry.frmBookPurchaseList.resources
+C:\Users\Ariunmunkh.e\OneDrive\Documents\Visual Studio\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.Inquiry.frmBookOrderResolution.resources
+C:\Users\Ariunmunkh.e\OneDrive\Documents\Visual Studio\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.Inquiry.frmBookRemainderList.resources
+C:\Users\Ariunmunkh.e\OneDrive\Documents\Visual Studio\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.Inquiry.frmAuthorList.resources
+C:\Users\Ariunmunkh.e\OneDrive\Documents\Visual Studio\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.Inquiry.frmBookList.resources
+C:\Users\Ariunmunkh.e\OneDrive\Documents\Visual Studio\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.Inquiry.frmStudentList.resources
+C:\Users\Ariunmunkh.e\OneDrive\Documents\Visual Studio\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.Inquiry.frmCategoryList.resources
+C:\Users\Ariunmunkh.e\OneDrive\Documents\Visual Studio\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.Inquiry.frmUserList.resources
+C:\Users\Ariunmunkh.e\OneDrive\Documents\Visual Studio\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.frmLogin.resources
+C:\Users\Ariunmunkh.e\OneDrive\Documents\Visual Studio\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.frmMain.resources
+C:\Users\Ariunmunkh.e\OneDrive\Documents\Visual Studio\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.Properties.Resources.resources
+C:\Users\Ariunmunkh.e\OneDrive\Documents\Visual Studio\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.csproj.GenerateResource.Cache
+C:\Users\Ariunmunkh.e\OneDrive\Documents\Visual Studio\UBTZLibrary\UBTZLibrary\obj\Debug\UBTZLibrary.exe.licenses
+C:\Users\Ariunmunkh.e\OneDrive\Documents\Visual Studio\UBTZLibrary\UBTZLibrary\bin\Debug\UBTZLibrary.exe
+C:\Users\Ariunmunkh.e\OneDrive\Documents\Visual Studio\UBTZLibrary\UBTZLibrary\bin\Debug\UBTZLibrary.pdb
